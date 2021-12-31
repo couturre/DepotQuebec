@@ -507,7 +507,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.0" provider-name="anisite">
+<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.0" provider-name="couturre">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.simplejson" version="2.0.10"/>
@@ -524,11 +524,11 @@
 -Explorez des primeurs, des exclusivités, des vidéos inédites et différentes thématiques</description>
     <news>v1.0.0  (2018-02-04) - Première version complète fonctionnelle.</news>
     <language>fr</language>
-    <source>https://github.com/anisite/plugin.infologique.TVAgo</source>
+    <source>https://github.com/couturre/plugin.infologique.TVAgo</source>
   </extension>
 </addon>
 
-<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.1" provider-name="anisite, MaximeLussier">
+<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.1" provider-name="couturre, MaximeLussier">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.simplejson" version="2.0.10"/>
@@ -546,11 +546,11 @@
     <news>v1.0.0  (2018-02-04) - Première version complète fonctionnelle.
 v1.0.1 (2018-02-09) - https://videos.tva.ca/ nécessite TLS 1.2 seulement disponible sur Krypton (17).</news>
     <language>fr</language>
-    <source>https://github.com/anisite/plugin.infologique.TVAgo</source>
+    <source>https://github.com/couturre/plugin.infologique.TVAgo</source>
   </extension>
 </addon>
 
-<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.2" provider-name="anisite, MaximeLussier">
+<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.2" provider-name="couturre, MaximeLussier">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.simplejson" version="2.0.10"/>
@@ -568,11 +568,11 @@ v1.0.1 (2018-02-09) - https://videos.tva.ca/ nécessite TLS 1.2 seulement dispon
     <news>v1.0.0  (2018-02-04) - Première version complète fonctionnelle.
 v1.0.1 (2018-02-09) - https://videos.tva.ca/ nécessite TLS 1.2 seulement disponible sur Krypton (17).</news>
     <language>fr</language>
-    <source>https://github.com/anisite/plugin.infologique.TVAgo</source>
+    <source>https://github.com/couturre/plugin.infologique.TVAgo</source>
   </extension>
 </addon>
 
-<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.3" provider-name="anisite, MaximeLussier">
+<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.3" provider-name="couturre, MaximeLussier">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.simplejson" version="2.0.10"/>
@@ -589,11 +589,11 @@ v1.0.1 (2018-02-09) - https://videos.tva.ca/ nécessite TLS 1.2 seulement dispon
 -Explorez des primeurs, des exclusivités, des vidéos inédites et différentes thématiques</description>
     <news>v1.0.3 (2018-07-05) - Correction pour les vidéos qui ne jouent pas.</news>
     <language>fr</language>
-    <source>https://github.com/anisite/plugin.infologique.TVAgo</source>
+    <source>https://github.com/couturre/plugin.infologique.TVAgo</source>
   </extension>
 </addon>
 
-<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.4" provider-name="anisite, MaximeLussier">
+<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.4" provider-name="couturre, MaximeLussier">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.simplejson" version="2.0.10"/>
@@ -612,11 +612,11 @@ v1.0.1 (2018-02-09) - https://videos.tva.ca/ nécessite TLS 1.2 seulement dispon
 -Explorez des primeurs, des exclusivités, des vidéos inédites et différentes thématiques</description>
     <news>v1.0.4 (2019-05-31) - Correction pour changement en direct.</news>
     <language>fr</language>
-    <source>https://github.com/anisite/plugin.infologique.TVAgo</source>
+    <source>https://github.com/couturre/plugin.infologique.TVAgo</source>
   </extension>
 </addon>
 
-<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.5" provider-name="anisite, MaximeLussier">
+<addon id="plugin.infologique.TVAgo" name="TVA" version="1.0.5" provider-name="couturre, MaximeLussier">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.simplejson" version="2.0.10"/>
@@ -634,11 +634,11 @@ v1.0.1 (2018-02-09) - https://videos.tva.ca/ nécessite TLS 1.2 seulement dispon
 -Explorez des primeurs, des exclusivités, des vidéos inédites et différentes thématiques</description>
     <news>v1.0.5 (2020-03-02) - Correction pour inputstream.</news>
     <language>fr</language>
-    <source>https://github.com/anisite/plugin.infologique.TVAgo</source>
+    <source>https://github.com/couturre/plugin.infologique.TVAgo</source>
   </extension>
 </addon>
 
-<addon id="plugin.infologique.TVAgo" name="TVA+" version="2.0.0~alpha" provider-name="anisite, MaximeLussier">
+<addon id="plugin.infologique.TVAgo" name="TVA+" version="2.0.0~alpha" provider-name="couturre, MaximeLussier">
   <requires>
     <import addon="script.module.simplejson" version="3.16.1"/>
     <import addon="script.module.inputstreamhelper" version="0.5.2"/>
@@ -658,7 +658,7 @@ v1.0.1 (2018-02-09) - https://videos.tva.ca/ nécessite TLS 1.2 seulement dispon
         <fanart>resources/fanart.jpg</fanart>
     </assets>
     <language>fr</language>
-    <source>https://github.com/anisite/plugin.infologique.TVAgo</source>
+    <source>https://github.com/couturre/plugin.infologique.TVAgo</source>
   </extension>
 </addon>
 
@@ -1828,9 +1828,9 @@ Il vous suffit de vous connecter avec votre identifiant Espace client de Vidéot
     </requires>
     <extension point="xbmc.addon.repository"
         name="Dépôt Québec - Addiciels des chaînes de télévision québécoises">
-        <info compressed="true">https://raw.githubusercontent.com/anisite/DepotQuebec/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/anisite/DepotQuebec/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/anisite/DepotQuebec/master/</datadir>
+        <info compressed="true">https://raw.githubusercontent.com/couturre/DepotQuebec/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/couturre/DepotQuebec/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/couturre/DepotQuebec/master/</datadir>
         <hashes>false</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
